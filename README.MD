@@ -1,6 +1,6 @@
 # Hi there, I'm Vahane Vivek! 👋
 
-![Profile Banner](https://unsplash.com/photos/closeup-photo-of-black-and-red-keyboard-AMssSjUaTY4)
+![Profile Banner](https://images.unsplash.com/photo-1517433456452-f9633a875f6f?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ## About Me
 
@@ -39,11 +39,11 @@ A professional **Next.js-based** portfolio showcasing my projects and experience
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahanevivek/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/vahanevivek/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-05CC47?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/vahanevivek/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/vahanevivek/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vahanevivek/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-vahane/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/VIKKY0909/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-05CC47?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/vikivahane/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/vikivahane/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users//zeal_trail_49/)
 
 ## Tools & Services
 
