@@ -32,7 +32,6 @@ A professional **Next.js-based** portfolio showcasing my projects and experience
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VIKKY0909&show_icons=true&theme=radical)](https://github.com/VIKKY0909)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VIKKY0909&layout=compact&theme=radical)](https://github.com/VIKKY0909)
 
