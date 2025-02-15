@@ -6,8 +6,7 @@
 
 🚀 Passionate **Full Stack / MERN Stack Developer** with expertise in **Product Development, Frontend Engineering, and AI Research**. Love building **scalable applications**, exploring **AI-driven solutions**, and working on **innovative projects** that push the boundaries of technology.
 
-- 🔭 Currently working on: **FutureScope AI** (Predictive AI Platform for Global Trends)
-- 🌱 Currently learning: **Selenium Automation & AI-driven product development**
+- 🌱 Currently learning: **AI Automation**
 - 💬 Ask me about: **Frontend Development, UI/UX, Product Management, and AI Research**
 - 📫 Reach me at: **vahanevivek@gmail.com**
 - ⚡ Fun fact: I am also a **martial artist and singer** 🎤🥋
