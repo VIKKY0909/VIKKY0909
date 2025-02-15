@@ -1,6 +1,6 @@
 # Hi there, I'm Vahane Vivek! 👋
 
-![Profile Banner](https://source.unsplash.com/1200x300/?coding,technology)
+![Profile Banner](https://unsplash.com/photos/closeup-photo-of-black-and-red-keyboard-AMssSjUaTY4)
 
 ## About Me
 
@@ -33,9 +33,9 @@ A professional **Next.js-based** portfolio showcasing my projects and experience
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vahanevivek&show_icons=true&theme=radical)](https://github.com/vahanevivek)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VIKKY0909&show_icons=true&theme=radical)](https://github.com/VIKKY0909)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vahanevivek&layout=compact&theme=radical)](https://github.com/vahanevivek)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VIKKY0909&layout=compact&theme=radical)](https://github.com/VIKKY0909)
 
 ## Connect with Me
 
