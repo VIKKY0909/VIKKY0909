@@ -57,4 +57,3 @@ A professional **Next.js-based** portfolio showcasing my projects and experience
 
 ---
 
-*This README was generated with passion for technology and a love for innovation!*
